@@ -1,0 +1,2 @@
+ALTER TABLE `medios-pagos`
+	ADD COLUMN `esCheque` TINYINT(1) UNSIGNED NULL DEFAULT NULL AFTER `denominacion`;

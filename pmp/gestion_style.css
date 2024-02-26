@@ -1,0 +1,246 @@
+.ewHeaderRow
+{
+	display: none;
+}
+
+.ewSiteTitle
+{
+	display: none;
+}
+
+.ewFooterRow {
+	position: fixed; 
+	width: 100%;
+	bottom:0;
+}
+
+.ewGridUpperPanel
+{
+	padding: 7px !important;
+}
+
+.ewSiteTitle
+{
+	display: none;
+}
+
+#flogin label
+{
+	display: none;
+}
+
+#flogin_options label
+{
+	display: inline;
+}
+
+#tbl_dbo_clientemaster
+{
+	display: none;
+}
+
+#tbl_walger_clientesmaster
+{
+	display: none;
+}
+
+.btn-detail
+{
+  padding: 2px;
+  padding-left: 5px;
+  padding-right: 5px;
+  top: 0px;
+  font-size: 11px !important;
+  margin: 1px;
+}
+
+.ewListOptionBody
+{
+  padding: 0px !important;
+}
+
+.ewTableRow
+{
+  height: 26px !important;
+}
+
+.ewTableAltRow
+{
+  height: 26px !important;
+}
+
+.modal-content
+{
+	top: 20px
+}
+
+.greenCell
+{
+	background-color: #5CB85C;
+	color: white;
+}
+
+.redCell
+{
+	background-color: #D9534F;
+	color: white;
+}
+
+.ewTableRow:hover td
+{
+	color: black !important;
+}
+
+.ewTableAltRow:hover td
+{
+	color: black !important;
+}
+
+.dbo_cliente_detail_dbo_clientevtotransa
+{
+	display: none !important;
+}
+
+.ewListOptionHeader[data-name=detail_dbo_clientevtotransa]
+{
+	display: none !important;
+}
+
+.ewListOptionBody[data-name=detail_dbo_clientevtotransa]
+{
+	display: none !important;
+}
+
+.ewDetail
+{
+	/*display: none !important;*/
+}
+
+#xsr_1, #xsr_2
+{
+	float: left
+}
+
+#xsc_estado>label
+{
+	display: none;
+}
+
+#xsc_estado>.ewSearchOperator
+{
+	display: none;
+}
+
+.ewSearchPanel
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+.ewMessageDialog
+{
+	clear: both;
+}
+
+@media (max-width: 768px) {
+	#estadoActualizacion
+	{
+		display: none;
+	}
+}
+
+@media print
+{    
+    .no-print, .no-print *
+    {
+        display: none !important;
+    }
+
+    .ewToolbar
+    {
+    	display: none !important;
+    }
+    
+}
+
+[data-name="detail_trama_tipos2Darticulos2Datributos"]
+{
+	display: none;
+}
+
+[data-name="detail_trama_atributos2Dvalores"]
+{
+	display: none;
+}
+
+#tbl_subcategorias2Darticulosmaster, #tbl_categorias2Darticulosmaster, #tbl_articulosmaster, #tbl_tercerosmaster, #tbl_dbo_articulomaster #r_CodBarraArti, #r_idTipoArticulo, #r_PrecioVta1_PreArti, #r_Stock1_StkArti, #r_NombreFotoArti, #r_DescrNivelInt4,  #r_DescrNivelInt3, #r_DescrNivelInt2
+{
+	display: none;
+}
+
+.input-error{
+	border: red solid thin;
+  transition: 0.5s;	
+}
+
+.no-display{
+	display: none;
+}
+
+.form-control-custom{
+	max-width: 100%;
+	width: 100%;
+	padding: 1px 1px!important;	
+}
+
+/*Resuelve problema en filtros de búsqueda avanzada en movimientos*/
+#fmovimientoslistsrch_SearchPanel #xsr_2{
+	float: inherit;
+}
+
+
+#ewMenuColumn, #ewMenuColumn ul{
+	background-color: #13A58C!important;
+}
+
+#ewMenuColumn li a:hover{
+	background-color: #333!important;
+	background-image: none;
+}
+
+#ewMenuColumn a{
+	color: white;
+}
+
+
+#ewMenuColumn.black, #ewMenuColumn.black ul{
+	background-color: #111!important;
+}
+
+#ewMenuColumn.black li a:hover{
+	background-color: #000!important;
+	background-image: none;
+}
+
+#ewMenuColumn.black a{
+	color: white;
+}
+
+#ewMenuColumn.white, #ewMenuColumn.white ul{
+	background-color: white!important;
+}
+
+#ewMenuColumn.white li a:hover{
+	background-color: #aaa!important;
+	background-image: none;
+}
+
+#ewMenuColumn.white a{
+	color: #333;
+}
+
+li.active a{
+	color: white!important;
+}
+
+

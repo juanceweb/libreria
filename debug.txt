@@ -1,0 +1,7 @@
+UPDATE `articulos-stock`
+	SET
+	stock=3 * `articulos-stock`.indiceConversion / 0.1,
+	stockReservadoVenta=0 * `articulos-stock`.indiceConversion / 0.1,
+	stockReservadoCompra=0 * `articulos-stock`.indiceConversion / 0.1,
+	stockMinimo=0 * `articulos-stock`.indiceConversion / 0.1	
+	WHERE idArticulo = '5'

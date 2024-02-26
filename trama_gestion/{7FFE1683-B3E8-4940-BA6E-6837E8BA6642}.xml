@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration date="2019/10/27" author="e.World Technology Ltd.">
+  <project id="{7FFE1683-B3E8-4940-BA6E-6837E8BA6642}" file="D:\xampp\htdocs\valle\pmp\trama_gestion.pmp" name="trama_gestion" product="PHPMaker" version="13.0" datetime="2019/10/27 00:53:00" languagefolder="phplang" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,0">
+    <table id="niveles" name="niveles" caption="Niveles" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,0" priv="1" />
+    <table id="permisos" name="permisos" caption="Permisos" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,0" priv="1" />
+    <table id="usuarios" name="usuarios" caption="Usuarios" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,0" priv="1" />
+    <table id="localidades" name="localidades" caption="Localidades" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,111" priv="1" />
+    <table id="paises" name="paises" caption="Paises" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,111" priv="1" />
+    <table id="partidos" name="partidos" caption="Partidos" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,111" priv="1" />
+    <table id="provincias" name="provincias" caption="Provincias" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,111" priv="1" />
+    <table id="condiciones2Diva" name="condiciones-iva" caption="Condiciones de IVA" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,111" priv="1" />
+    <table id="terceros" name="terceros" caption="Terceros" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,111" priv="1" />
+    <table id="terceros2Dmedios2Dcontactos" name="terceros-medios-contactos" caption="Medios de Contacto" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,111" priv="1" />
+    <table id="tipos2Dcontactos" name="tipos-contactos" caption="Tipos de Contactos" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,111" priv="1" />
+    <table id="tipos2Ddocumentos" name="tipos-documentos" caption="Tipos de Documentos" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,111" priv="1" />
+    <table id="tipos2Dterceros" name="tipos-terceros" caption="Tipos de Terceros" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,111" priv="1" />
+    <table id="api_php" name="api.php" caption="api" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,8" priv="1" />
+    <table id="terceroshorarios_php" name="terceroshorarios.php" caption="Horarios de Terceros" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,8" priv="1" />
+    <table id="terceros2Dhorarios" name="terceros-horarios" caption="terceros horarios" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,111" priv="1" />
+    <table id="funciones_php" name="funciones.php" caption="Funciones" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,8" priv="1" />
+    <table id="feriados" name="feriados" caption="Feriados" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,111" priv="1" />
+    <table id="terceros2Dcontactos" name="terceros-contactos" caption="Personas de Contacto" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,111" priv="1" />
+    <table id="articulos" name="articulos" caption="Artículos" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,111" priv="1" />
+    <table id="articulos2Dproveedores" name="articulos-proveedores" caption="Precios de Compra" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,111" priv="1" />
+    <table id="articulos2Dterceros2Ddescuentos" name="articulos-terceros-descuentos" caption="Descuentos por Artículos" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,111" priv="1" />
+    <table id="categorias2Dterceros2Ddescuentos" name="categorias-terceros-descuentos" caption="Descuentos por Categoría" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,111" priv="1" />
+    <table id="lista2Dprecios" name="lista-precios" caption="Listas de Precios" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,111" priv="1" />
+    <table id="categorias2Darticulos" name="categorias-articulos" caption="Categorías de Artículos" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,111" priv="1" />
+    <table id="subcategorias2Darticulos" name="subcategorias-articulos" caption="Subcategorías de Artículos" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,111" priv="1" />
+    <table id="alicuotas2Diva" name="alicuotas-iva" caption="Alicuotas IVA" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,111" priv="1" />
+    <table id="monedas" name="monedas" caption="Monedas" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,111" priv="1" />
+    <table id="precios2Dcompra" name="precios-compra" caption="precios compra" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,111" priv="1" />
+    <table id="subcategoria2Dterceros2Ddescuentos" name="subcategoria-terceros-descuentos" caption="Descuentos por Subcategoría" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,111" priv="1" />
+    <table id="comprobantes" name="comprobantes" caption="Comprobantes" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,8" priv="1" />
+    <table id="movimientos" name="movimientos" caption="Movimientos" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,111" priv="1" />
+    <table id="movimientos2Ddetalle" name="movimientos-detalle" caption="movimientos detalle" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,111" priv="1" />
+    <table id="unidades2Dmedida" name="unidades-medida" caption="Unidades de Medida" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,111" priv="1" />
+    <table id="movimientosaddcustom_php" name="movimientosaddcustom.php" caption="Agregar Movimiento" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,8" priv="1" />
+    <table id="connect_php" name="connect.php" caption="conectar" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,8" priv="1" />
+    <table id="configuracion" name="configuracion" caption="Configuración" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,40" priv="1" />
+    <table id="consultas_php" name="consultas.php" caption="consultas" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,8" priv="1" />
+    <table id="movimientoseditcustom_php" name="movimientoseditcustom.php" caption="Editar Movimiento" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,8" priv="1" />
+    <table id="adelantos" name="adelantos" caption="adelantos" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,0" priv="1" />
+    <table id="adelantos2Drecibos2Dpagos" name="adelantos-recibos-pagos" caption="adelantos recibos pagos" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,0" priv="1" />
+    <table id="cheques" name="cheques" caption="cheques" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,0" priv="1" />
+    <table id="cheques2Ddetalle" name="cheques-detalle" caption="cheques detalle" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,0" priv="1" />
+    <table id="medios2Dpagos" name="medios-pagos" caption="Medios de Pago" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,0" priv="1" />
+    <table id="recibos2Dpagos" name="recibos-pagos" caption="Recibos y Pagos" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,0" priv="1" />
+    <table id="recibos2Dpagos2Ddetalle" name="recibos-pagos-detalle" caption="recibos pagos detalle" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,0" priv="1" />
+    <table id="recibosaddcustom_php" name="recibosaddcustom.php" caption="Agregar Recibo" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,8" priv="1" />
+    <table id="reciboseditcustom_php" name="reciboseditcustom.php" caption="Editar Recibo" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,8" priv="1" />
+    <table id="articulos2Dstock" name="articulos-stock" caption="Stock" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,111" priv="1" />
+    <table id="respuestas2Dafip" name="respuestas-afip" caption="respuestas afip" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,0" priv="1" />
+    <table id="impresionmovimiento_php" name="impresionmovimiento.php" caption="" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,8" priv="1" />
+    <table id="impresionremito_php" name="impresionremito.php" caption="" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,8" priv="1" />
+    <table id="impresionfacturaiva_php" name="impresionfacturaiva.php" caption="" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,8" priv="1" />
+    <table id="impresionfactura_php" name="impresionfactura.php" caption="" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,8" priv="1" />
+    <table id="estadoscuentas_php" name="estadoscuentas.php" caption="Estados de Cuenta" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,0" priv="1" />
+    <table id="marcas" name="marcas" caption="Marcas" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,111" priv="1" />
+    <table id="rubros" name="rubros" caption="Rubros" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,111" priv="1" />
+    <table id="actualizacionconarchivo_php" name="actualizacionconarchivo.php" caption="Actualización con Archivo" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,8" priv="1" />
+    <table id="actualizacionconfiltro_php" name="actualizacionconfiltro.php" caption="Actualización con Filtro" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,8" priv="1" />
+    <table id="comprobantes2Dnumeracion" name="comprobantes-numeracion" caption="Numeración" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,0" priv="1" />
+    <table id="observaciones2Dcheques" name="observaciones-cheques" caption="Observaciones cheques" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,0" priv="1" />
+    <table id="comprobantes2Dbloqueados2Dcondiciones2Diva" name="comprobantes-bloqueados-condiciones-iva" caption="Comprobantes Bloqueados" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,0" priv="1" />
+    <table id="accesos2Ddirectos" name="accesos-directos" caption="Accesos Directos" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,0" priv="1" />
+    <table id="sucursales" name="sucursales" caption="Sucursales" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,0" priv="1" />
+    <table id="modulocotizaciones_php" name="modulocotizaciones.php" caption="Cotizaciones" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,0" priv="1" />
+    <table id="saldos_php" name="saldos.php" caption="Saldos" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,0" priv="1" />
+    <table id="movimientospendientes_php" name="movimientospendientes.php" caption="Movimientos Pendientes" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,0" priv="1" />
+    <table id="modulocotizacion2_php" name="modulocotizacion2.php" caption="Módulo de Cotización 2.0" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,0" priv="1" />
+    <table id="cotizaciones" name="cotizaciones" caption="Cotizaciones" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,0" priv="1" />
+    <table id="cotizaciones_detalles" name="cotizaciones_detalles" caption="cotizaciones detalles" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,0" priv="1" />
+    <table id="pedidosredes_php" name="pedidosredes.php" caption="Pedidos de redes" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,0" priv="1" />
+    <table id="generacionmasivacomprobantes_php" name="generacionmasivacomprobantes.php" caption="Generación Masiva de Comprobantes" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,0" priv="1" />
+    <table id="descuentosasociados" name="descuentosasociados" caption="descuentosasociados" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,0" priv="1" />
+    <table id="articulospendientes_php" name="articulospendientes.php" caption="Artículos Pendientes" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,0" priv="1" />
+    <table id="panelcontrol_php" name="panelcontrol.php" caption="Panel de Control" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,0" priv="1" />
+    <table id="listaprecios_php" name="listaprecios.php" caption="Lista de Precios" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0;1,&quot;distwilde&quot;,0" priv="1" />
+  </project>
+</configuration>
